@@ -10,12 +10,13 @@ Creation Steps
   Step 4:
     The two data sets selected for this project were taken from Data.Gov
     The first data set is data on political contributions to candidates in the State of Washington, originally containing data from 2007 to 2016
+      -Removed records using excel first based off of because JupyterLab was taking too long to load the file
     The second data set is data on political contributions to candidates in the city of San Francisco, originally containing data from 2009 to 2019
   Step 5:
     Data Sets were loaded into Pandas following the "https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html" guide
   Step 6:
     Data Set could be used to check to see if an increase in contribution during a calender year in a State like Washington could predict an increase in the following year in San Francisco
   Step 7:
-  
+    Just grabbed the year and amount column from each data set. Removed empty values(did not figure out). Merged data sets
   Step 8:
   
