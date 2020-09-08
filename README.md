@@ -17,6 +17,5 @@ Creation Steps
   Step 6:
     Data Set could be used to check to see if an increase in contribution during a calender year in a State like Washington could predict an increase in the following year in San Francisco
   Step 7:
-    Just grabbed the year and amount column from each data set. Removed empty values(did not figure out). Merged data sets
-  Step 8:
+    Just grabbed the year and amount column from each data set. Removed empty values and removed the years of data that we had for only one data set. Renamed columns on data sets to distinguish columns after merge. Merged data sets on common years
   
